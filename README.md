@@ -6,3 +6,5 @@ This corpus has been used also in IDAT shared task at FIRE-2019: [IDAT@FIRE2019:
 We distribute only the Ids of the annotated tweets due to [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy).
 
 If you face any problem with the dataset, feel free to contact us.
+
+Citation:
