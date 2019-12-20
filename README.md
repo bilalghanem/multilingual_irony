@@ -13,6 +13,7 @@ REQUIREMENTS:
 
 USAGE:
 > python read_tweets_text.py file_name
+
 example:
 > python read_tweets_text.py ECIR_test.csv
 
