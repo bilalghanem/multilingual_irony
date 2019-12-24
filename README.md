@@ -18,4 +18,4 @@ example:
 > python read_tweets_text.py ECIR_test.csv
 
 
-For further information, feel free to contact us.
+For further information, feel free to contact the authors.
