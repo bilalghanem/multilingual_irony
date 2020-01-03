@@ -17,7 +17,16 @@ USAGE:
 example:
 > python read_tweets_text.py ECIR_test.csv
 
-Citation:
+Citations:
+
+      @inproceedings{ghanem2019irony,
+        title={Irony Detection in a Multilingual Context},
+        author={Ghanem, Bilal and Karoui, Jihen and Benamara, Farah and Rosso, Paolo and Moriceau, V{\'e}ronique},
+        booktitle={European Conference on Information Retrieval},
+        year={2020},
+        organization={Springer}
+      }
+
 
     @inproceedings{ghanem2019idat,
       title={IDAT at FIRE2019: Overview of the Track on Irony Detection in Arabic Tweets},
