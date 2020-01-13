@@ -33,7 +33,7 @@ Citations:
       author={Ghanem, Bilal and Karoui, Jihen and Benamara, Farah and Moriceau, V{\'e}ronique and Rosso, Paolo},
       booktitle={Working Notes of the Forum for Information Retrieval Evaluation (FIRE 2019). CEUR Workshop Proceedings. In: CEUR-WS. org, Kolkata, India},
       year={2019}
-}
+      }
 
 
 For further information, feel free to contact the authors.
