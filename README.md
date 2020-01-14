@@ -31,9 +31,11 @@ Citations:
     @inproceedings{ghanem2019idat,
       title={IDAT@FIRE2019: Overview of the Track on Irony Detection in Arabic Tweets},
       author={Ghanem, Bilal and Karoui, Jihen and Benamara, Farah and Moriceau, V{\'e}ronique and Rosso, Paolo},
-      booktitle={Working Notes of the Forum for Information Retrieval Evaluation (FIRE 2019). CEUR Workshop Proceedings. In: CEUR-WS. org, Kolkata, India},
+      booktitle={Working Notes of the Forum for Information Retrieval Evaluation (FIRE 2019). CEUR Workshop Proceedings. In: CEUR-WS.org, Kolkata, India},
+      volume = {2517},
+      pages={380--390},
       year={2019}
-      }
+    }
 
 
 For further information, feel free to contact the authors.
