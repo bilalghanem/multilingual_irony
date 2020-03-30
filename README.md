@@ -38,4 +38,8 @@ Citations:
     }
 
 
+If you face any problem while downloading the tweets, and you need a copy of the full data, please fill the following form: 
+[IDAT data](https://forms.gle/FsgZrbv5YfR5Jibx6)
+
+
 For further information, feel free to contact the authors.
