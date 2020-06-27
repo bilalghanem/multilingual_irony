@@ -1,4 +1,4 @@
-*** Note: If you need the full corpus (with the tweets text), please fill this form: [IDAT data](https://forms.gle/FsgZrbv5YfR5Jibx6) ***
+***Note: If you need the full corpus (with the tweets text), please fill this form: [IDAT data](https://forms.gle/FsgZrbv5YfR5Jibx6)***
 
 In this repository, you can find an Arabic Irony corpus which is mentioned in [Irony Detection in a Multilingual Context](https://www.google.com) **ECIR-2020** paper.
 The corpus consists of ~5.5k tweets annotated by two native Arabic speakers with appended with another randomly 5.5k sampled tweets from the original un-annotated corpus (`ECIR_training.csv` & `ECIR_test.csv`).
